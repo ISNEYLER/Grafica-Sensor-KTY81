@@ -1,3 +1,5 @@
+% Estudiante: Isneyler Mosquera Preciado
+
 % --- Datos del datasheet para KTY81/110 ---
 % Temperatura en °C
 T = [-55, -50, -40, -30, -20, -10, 0, 10, 20, 25, 30, ...
